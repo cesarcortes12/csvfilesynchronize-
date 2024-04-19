@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\curso_backend\\ConsolaBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8584667-995A-422C-A088-F5927722CD72}|Data\\Data.csproj|f:\\curso_backend\\consolabd\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8584667-995A-422C-A088-F5927722CD72}|Data\\Data.csproj|solutionrelative:data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|f:\\curso_backend\\consolabd\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|f:\\curso_backend\\consolabd\\consola\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|solutionrelative:consola\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|f:\\curso_backend\\consolabd\\consola\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629840E1-DABD-4F21-B5FD-B620CBCD160A}|Consola\\Consola.csproj|solutionrelative:consola\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".Env",
+              "DocumentMoniker": "F:\\curso_backend\\ConsolaBD\\Consola\\.Env",
+              "RelativeDocumentMoniker": "Consola\\.Env",
+              "ToolTip": "F:\\curso_backend\\ConsolaBD\\Consola\\.Env",
+              "RelativeToolTip": "Consola\\.Env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-19T15:53:24.345Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "F:\\curso_backend\\ConsolaBD\\Consola\\Configuracion.cs",
+              "RelativeDocumentMoniker": "Consola\\Configuracion.cs",
+              "ToolTip": "F:\\curso_backend\\ConsolaBD\\Consola\\Configuracion.cs",
+              "RelativeToolTip": "Consola\\Configuracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:57:50.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "F:\\curso_backend\\ConsolaBD\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "Data\\Conexion.cs",
+              "ToolTip": "F:\\curso_backend\\ConsolaBD\\Data\\Conexion.cs",
+              "RelativeToolTip": "Data\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:11:51.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\curso_backend\\ConsolaBD\\Consola\\Program.cs",
+              "RelativeDocumentMoniker": "Consola\\Program.cs",
+              "ToolTip": "F:\\curso_backend\\ConsolaBD\\Consola\\Program.cs",
+              "RelativeToolTip": "Consola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:46:52.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
